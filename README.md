@@ -12,3 +12,7 @@ Register new users, Update users, Delete Users
 Sign-in Users (OIDC/OAuth) with Embedded Browser in Windows Native App 
 
 ![alt text](https://user-images.githubusercontent.com/27521456/31220589-c91b52fa-a9b8-11e7-924d-a5074fb5f2f6.png)
+
+Getting Access Token for securing API access
+
+![alt text](https://user-images.githubusercontent.com/27521456/31220880-bbea9f7c-a9b9-11e7-854e-68cf2e1ed981.png)
